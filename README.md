@@ -23,10 +23,11 @@ This project analyses sales data using Power BI to identify trends, regional per
 - **Interactive slicers** for filtering by region and category
 
 ## Key Insights
+- Bikes dominate revenue, accounting for the vast majority of the 1.10M total — Components are a distant second
 - Sales fluctuate throughout the year, suggesting potential seasonality in demand
-- The Bikes category generates the highest revenue by a significant margin
+- Revenue peaks in March then falls sharply through mid-year, recovering slightly in Q4 — this seasonal pattern warrants further investigation
 - Canada and Southwest are among the strongest-performing regions
-- Revenue is concentrated among a relatively small number of top-performing products
+- Mountain bike variants consistently rank as the top products by individual revenue
 
 ## Recommendations
 - Sustain growth in the Bikes category while reviewing opportunities to improve lower-performing categories
